@@ -1,0 +1,4 @@
+Dataset: 
+Dataset can be accessed through following link: 
+“IR Vision Dataset.” RoboFlow Universe, 2024. Available: https: //universe.roboflow.com/tfnet-night-vision/mul/dataset/1
+It contains over 8000 images with four distict classes: Birds, Drones, Plane, Helicopter
